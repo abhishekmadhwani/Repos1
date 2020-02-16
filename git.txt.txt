@@ -1,4 +1,2 @@
-git.txt
-
 changed no changes and it has zero merger
-changing it again
+changed no changes now
