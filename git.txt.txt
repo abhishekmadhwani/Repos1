@@ -1,4 +1,4 @@
 git.txt
 
-changed no changes
+changed no changes and it has zero merger
 changing it again
