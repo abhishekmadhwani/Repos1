@@ -1,3 +1,4 @@
 changed no changes and it has zero merger
 changed no changes now
+new line
 added one more line
